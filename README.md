@@ -3,6 +3,13 @@
 HTML5 template with CSS, JavaScript, Chart.js, images, and fonts support.
 The build tool is included (CSS and JS optimization support).
 
+## File structure
+src/css/styles.css - place your CSS here,
+src/js/script.js - place your JavaScript here,
+src/fonts/ - place your fonts here,
+src/images/ - place your images here,
+src/index.html - place your HTML here,
+
 ## Prerequisites
 
 - Node.js
